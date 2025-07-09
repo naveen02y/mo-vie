@@ -51,15 +51,6 @@ Node.js (v16+ recommended)
 
 npm
 
-Installation
-bash
-git clone https://github.com/your-username/movie-blizz.git
-cd movie-blizz
-npm install
-Running Locally
-bash
-npm run dev
-The app will start on http://localhost:5173 (or the port shown in your terminal).
 
 Usage
 Enter a movie title in the search bar to find movies.
